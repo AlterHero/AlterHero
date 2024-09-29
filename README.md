@@ -1,4 +1,4 @@
-Hi 👋 My name is Sergey Vagin
+Hi 👋 My name is Sergey V
 =============================
 
 Network Engineer
